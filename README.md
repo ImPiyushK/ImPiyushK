@@ -1,4 +1,5 @@
-## Hey! I'm Piyush Kandwal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Piyush. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I  like coding and building projects.
 
 [![GitHub ImPiyushK](https://img.shields.io/github/followers/ImPiyushK?label=follow&style=social)](https://github.com/ImPiyushK)
 [![Linkedin: Piyush Kandwal](https://img.shields.io/badge/-Piyush%20Kandwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/impiyushk/)](https://www.linkedin.com/in/impiyushk/)
