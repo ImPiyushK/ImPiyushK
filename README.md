@@ -1,3 +1,9 @@
+<h1 align="center">Piyush Kandwal</h1>
+
+<p align="center">
+  M.Tech CSE @ IIIT Delhi<br/>
+</p>
+<a href="https://www.linkedin.com/in/yashkumarvaibhav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 ## Hey! I'm Piyush. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I  like coding and building projects.
 
