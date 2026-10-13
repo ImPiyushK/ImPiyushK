@@ -5,7 +5,7 @@
 🎓 M.Tech '27 | IIIT Delhi
 💻 Full-Stack Developer | ML & NLP Enthusiast
 
-I’m passionate about building innovative, real-world solutions that bridge the gap between technology and impact. With hands-on experience in full-stack development, machine learning, and natural language processing, I develop tools that solve complex problems and deliver seamless, user-centric experiences.
+I’m passionate about building innovative, real-world solutions that bridge the gap between technology and impact. With hands-on experience in full-stack development, machine learning, and natural language processing, I develop tools that solve complex problems and deliver seamless, user centric experiences.
 <!-- <a href="https://www.linkedin.com/in/impiyushk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 
 
